@@ -40,7 +40,7 @@
 
   <!-- Gallery Section -->
   <section class="gallery" id="gallery">
-    <h2>Our Work</h2>
+    <h2>Our Collection</h2>
     <div class="gallery-images">
       <img src="https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 1">
       <img src="https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 2">
@@ -53,9 +53,9 @@
   <section class="contact" id="contact">
     <h2>Contact Us</h2>
     <form id="contact-form">
-      <input type="text" id="name" placeholder="Your Name" required>
+      <input type="text" id="name" placeholder="hello brotheruu" required>
       <input type="email" id="email" placeholder="Your Email" required>
-      <textarea id="message" placeholder="Your Message" required></textarea>
+      <textarea id="message" placeholder="Your bye nha" required></textarea>
       <button type="submit">Send Message</button>
     </form>
   </section>
