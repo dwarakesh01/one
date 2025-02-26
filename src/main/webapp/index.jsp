@@ -33,7 +33,7 @@
       <div class="card">
         <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Consultation">
         <h3>Consultation</h3>
-        <p>Expert advice to help you make the best design decisions.</p>
+        <p>Expert advice to help you make the good design decisions.</p>
       </div>
     </div>
   </section>
@@ -53,7 +53,7 @@
   <section class="contact" id="contact">
     <h2>Contact Us</h2>
     <form id="contact-form">
-      <input type="text" id="name" placeholder="hello brotheruu" required>
+      <input type="text" id="name" placeholder="hello Macha" required>
       <input type="email" id="email" placeholder="Your Email" required>
       <textarea id="message" placeholder="Your bye nha" required></textarea>
       <button type="submit">Send Message</button>
